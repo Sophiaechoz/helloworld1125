@@ -19,6 +19,8 @@ int main()
    /*²âÊÔ×¨ÓÃ*/
    //C1
    printf("String = %s,  Address = %u\n", str, str);
+   //C2
+   printf("String = %s,  Address = %u\n", str, str);
   
 
 
