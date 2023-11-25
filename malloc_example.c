@@ -21,7 +21,8 @@ int main()
    printf("String = %s,  Address = %u\n", str, str);
    //C2
    printf("String = %s,  Address = %u\n", str, str);
-  
+   //C3
+   printf("String = %s,  Address = %u\n", str, str);
 
 
  
