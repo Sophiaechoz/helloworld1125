@@ -23,6 +23,8 @@ int main()
    printf("String = %s,  Address = %u\n", str, str);
    //C3
    printf("String = %s,  Address = %u\n", str, str);
+   //dev ¡°ÉÌ³Ç¡±
+   printf("String = %s,  Address = %u\n", str, str);
 
 
  
