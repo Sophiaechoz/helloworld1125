@@ -31,6 +31,11 @@ int main()
    printf("String = %s,  Address = %u\n", str, str);
    printf("String = %s,  Address = %u\n", str, str);
 
+  
+   //²âÊÔ×¨ÓÃ
+   printf("A = %s,  B = %u\n", str, str);
+
+
 
 
  
